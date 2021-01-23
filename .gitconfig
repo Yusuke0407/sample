@@ -1,0 +1,8 @@
+[credential]
+	helper = !aws codecommit credential-helper $@
+	UseHttpPath = true
+[core]
+	editor = nano
+[user]
+	name = 須藤悠介
+	email = yusukes0407@icloud.com
